@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="Mastermind.gif"  />
+  <img height="400" width="900"src="Mastermind.gif"  />
 </div>
 
 ###
