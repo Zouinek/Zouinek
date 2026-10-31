@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Aymen 👋
 
-<!--
-**Zouinek/Zouinek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Ostfalia (Wolfenbüttel), based in Braunschweig. I build backend systems in Java and I like finding out how they fail.
 
-Here are some ideas to get you started:
+**Right now I'm building [OrderFlow](https://github.com/Zouinek/orderflow):** an event-driven order and payment platform on Kubernetes and Kafka. The goal: kill any pod or broker, and no order gets lost and no payment gets charged twice.
+Every bug I hit, or cause on purpose, goes into its [war stories](https://github.com/Zouinek/orderflow/blob/main/docs/war-stories.md).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open source:** [`useJackson3` option for the jaxrs-spec generator](https://github.com/OpenAPITools/openapi-generator/pull/25406) in OpenAPI Generator (in review).
+
+**Stack:** Java · Spring Boot · PostgreSQL · Kafka · Docker · Kubernetes · GitHub Actions
+
+**Looking for:** a Praktikum or Werkstudent position in backend development (Java) from 2027, in Germany or remote.
+
+📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
