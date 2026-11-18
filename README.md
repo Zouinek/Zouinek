@@ -9,6 +9,6 @@ Every bug I hit, or cause on purpose, goes into its [war stories](https://github
 
 **Stack:** Java · Spring Boot · PostgreSQL · Kafka · Docker · Kubernetes · GitHub Actions
 
-**Looking for:** a Praktikum or Werkstudent position in backend development (Java) from 2027, in Germany or remote.
+**Looking for:** a Internship or work Student position in backend development (Java) from 2027, in Germany or remote.
 
 📫 [LinkedIn](https://www.linkedin.com/in/aymen-zouinek)
